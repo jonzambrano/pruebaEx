@@ -1,6 +1,6 @@
 # App de Volquetas - Android Nativo
 
-Aplicación Android nativa (Java) que consume una API REST para visualizar un listado de vehículos con una interfaz personalizada, basada en la identidad visual de la Alcaldía de Quevedo.
+Aplicación Android nativa (Java) que consume una API REST para visualizar un listado de vehículos con una interfaz personalizada, basada en la identidad visual de la Alcaldía de Santo Domingo.
 
 ## Capturas de Pantalla
 
